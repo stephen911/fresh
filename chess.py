@@ -69,3 +69,5 @@
 ~ played. A problem that may arise is the number of postions that need to be
 ~ evaulated. Even at 3 levels of depth, thousands of positions have to be
 ~ evaluatd.
+~ Several methods are used in this program to reduce positions that are searched:
+~ 1. Alpha-beta pruning: As a result of  evaluating a position it can be found
