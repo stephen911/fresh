@@ -38,3 +38,4 @@
 ~https://en.lichess.org/
 
 ~Chess board image was taken from lichess website as well.
+~The images for the pieces came from:
